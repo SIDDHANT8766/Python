@@ -1,0 +1,22 @@
+print("Enter first number")
+No1 = int(input())
+
+print("Enter second number")
+No2 = int(input())
+
+Ans = No1 * No2
+
+print("Multipication is :",Ans)
+
+print("-"*51)
+##########################################
+
+print("Enter first number")
+No1 = int(input())
+
+print("Enter second number")
+No2 = int(input())
+
+Ans = No1 * No2
+
+print("Multipication is :",Ans)
